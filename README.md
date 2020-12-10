@@ -1,0 +1,1 @@
+# Using open datasets from the city of New York, investigate the effectiveness of SATs as a measure for college admissions by seeing whether socioeconomic factors, school, and other factors influence score
